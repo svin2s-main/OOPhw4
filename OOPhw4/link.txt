@@ -1,0 +1,8 @@
+
+string
+	https://acode.com.ua/urok-208-ryadkovi-klasy-std-string-i-std-wstring/
+	https://cplusplus.com/reference/string/string/
+
+fstream
+	https://www.youtube.com/watch?v=SSNJ7alki-E&list=PLiPRE8VmJzOpn6PzYf0higmCEyGzo2A5g&index=171&ab_channel=%D0%A3%D1%80%D0%BE%D0%BA%D0%B8%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F
+	https://purecodecpp.com/archives/2751
